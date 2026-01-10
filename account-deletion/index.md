@@ -18,7 +18,8 @@ Pour demander la suppression de votre compte :
 2. Indiquez dans votre message :
     - Votre **nom et prénom**
     - L’**adresse e-mail** utilisée dans l’application
-    - Votre **code stockiste** (si disponible)
+    - Votre **code stockiste**
+    - Votre **code de confirmation**
     - L’objet : **Demande de suppression de compte**
 
 ---
@@ -32,14 +33,19 @@ Après validation de la demande, les données suivantes seront définitivement s
 - Date de naissance
 - Adresse
 - Code stockiste
-- Photos associées au compte
+- Code de confirmation
 - Données d’authentification
+
+- Toutes les commandes ajoutés, et leurs historiques
+- Toute la corbeille
+
+- Infos et Images de comptes partenaires
 
 ---
 
 ## 🕒 Données conservées
 
-Certaines données peuvent être conservées temporairement uniquement pour :
+Certaines données non personnelles peuvent être conservées temporairement uniquement pour :
 - Respecter des obligations légales
 - Résoudre des litiges
 
@@ -49,7 +55,7 @@ Ces données sont supprimées automatiquement après la durée légale de conser
 
 ## ⏱️ Délai de traitement
 
-La suppression du compte est effectuée **dans un délai maximum de 30 jours** après réception de la demande.
+La suppression du compte est effectuée **dans un délai maximum de 5 jours** après réception de la demande.
 
 ---
 
@@ -64,3 +70,4 @@ Ce service est principalement destiné aux utilisateurs situés en **Guinée**, 
 Pour toute question relative à la suppression de compte :
 
 📧 **diallomamadoucellou313@gmail.com**
+
