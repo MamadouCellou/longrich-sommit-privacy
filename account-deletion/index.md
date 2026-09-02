@@ -1,12 +1,12 @@
-# 🗑️ Suppression de compte – Longrich Sommit
+# 🗑️ Suppression de compte – Longrich Register
 
-Dernière mise à jour : 09 janvier 2026
+Dernière mise à jour : 01 Septembre 2026
 
 ---
 
 ## Demande de suppression de compte
 
-Les utilisateurs de l’application **Longrich Sommit** peuvent demander à tout moment la suppression de leur compte et des données personnelles associées.
+Les utilisateurs de l’application **Longrich Register** peuvent demander à tout moment la suppression de leur compte et des données personnelles associées.
 
 ### 📌 Procédure de suppression
 
