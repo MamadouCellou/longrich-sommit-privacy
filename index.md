@@ -1,15 +1,15 @@
 # 🔐 POLITIQUE DE CONFIDENTIALITÉ
-**Application : Longrich Sommit**  
-**Dernière mise à jour : 09 janvier 2026**
+**Application : Longrich Register**  
+**Dernière mise à jour : 01 Septembre 2026**
 
 ---
 
 ## 🇫🇷 Politique de Confidentialité (Français)
 
 ### 1. Introduction
-La présente Politique de Confidentialité décrit comment l’application **Longrich Sommit**, développée par **Mamadou Cellou Diallo**, collecte, utilise et protège les données personnelles de ses utilisateurs.
+La présente Politique de Confidentialité décrit comment l’application **Longrich Register**, développée par **Mamadou Cellou Diallo**, collecte, utilise et protège les données personnelles de ses utilisateurs.
 
-En utilisant l’application Longrich Sommit, vous acceptez expressément les pratiques décrites dans la présente Politique de Confidentialité.
+En utilisant l’application Longrich Register, vous acceptez expressément les pratiques décrites dans la présente Politique de Confidentialité.
 
 📧 **Contact** : [diallomamadoucellou313@gmail.com](mailto:diallomamadoucellou313@gmail.com)
 
@@ -60,7 +60,7 @@ Les informations collectées sont utilisées pour :
 ---
 
 ### 4. Services tiers
-L’application **Longrich Sommit** utilise des services tiers susceptibles de collecter et traiter certaines données :
+L’application **Longrich Register** utilise des services tiers susceptibles de collecter et traiter certaines données :
 
 - **Firebase (Google LLC)**
     - Analytics
@@ -121,7 +121,7 @@ La suppression sera effectuée dans un délai raisonnable, conformément aux obl
 ---
 
 ### 9. Confidentialité des enfants
-L’application **Longrich Sommit** n’est pas destinée aux enfants de moins de **13 ans**.
+L’application **Longrich Register** n’est pas destinée aux enfants de moins de **13 ans**.
 
 Nous ne collectons pas sciemment de données personnelles concernant des enfants. Si de telles données étaient collectées par erreur, elles seraient supprimées dans les plus brefs délais.
 
@@ -151,9 +151,9 @@ Pour toute question relative à cette Politique de Confidentialité, vous pouvez
 ## 🇬🇧 Privacy Policy (English)
 
 ### 1. Introduction
-This Privacy Policy describes how the **Longrich Sommit** application, developed by **Mamadou Cellou Diallo**, collects, uses, and protects users’ personal data.
+This Privacy Policy describes how the **Longrich Register** application, developed by **Mamadou Cellou Diallo**, collects, uses, and protects users’ personal data.
 
-By using the Longrich Sommit application, you expressly agree to the practices described in this Privacy Policy.
+By using the Longrich Register application, you expressly agree to the practices described in this Privacy Policy.
 
 📧 **Contact**: [diallomamadoucellou313@gmail.com](mailto:diallomamadoucellou313@gmail.com)
 
@@ -204,7 +204,7 @@ The collected information is used to:
 ---
 
 ### 4. Third-Party Services
-The Longrich Sommit application uses third-party services that may collect and process certain data:
+The Longrich Register application uses third-party services that may collect and process certain data:
 
 - **Firebase (Google LLC)**
     - Analytics
@@ -265,7 +265,7 @@ Deletion will be carried out within a reasonable timeframe, in accordance with a
 ---
 
 ### 9. Children’s Privacy
-The Longrich Sommit application is not intended for children under the age of **13**.
+The Longrich Register application is not intended for children under the age of **13**.
 
 We do not knowingly collect personal data from children. If such data are collected unintentionally, they will be promptly deleted.
 
